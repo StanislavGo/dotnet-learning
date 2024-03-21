@@ -15,8 +15,8 @@ EPAM University Program - C#/.NET Specialization
 11. https://www.youtube.com/watch?v=CqCDOosvZIk - .NET Microservices (7 hours)
 
 ## Other useful links:
-1. https://training.epam.ua/en/blog/301?lang=ua
-2. https://training.epam.ua/en/blog/191?lang=ua
-3. https://training.epam.ua/en/blog/507?lang=ua
-4. https://training.epam.ua/en/blog/567?lang=ua
-5. https://training.epam.ua/en/blog/580?lang=ua
+1. https://training.epam.ua/en/blog/301?lang=ua - What is .NET and what does a .NET developer do?
+2. https://training.epam.ua/en/blog/567?lang=ua - Six common myths about .NET
+3. https://training.epam.ua/en/blog/191?lang=ua - .NET: videos, tasks, and 9 questions to get ready for an interview
+4. https://training.epam.ua/en/blog/507?lang=ua - Embrace the Dot: advantages, applications and .NET development trends
+5. https://training.epam.ua/en/blog/580?lang=ua - Map to success: .NET roadmap for juniors
