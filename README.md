@@ -22,3 +22,9 @@ EPAM University Program - C#/.NET Specialization
 3. https://training.epam.ua/en/blog/191?lang=ua - .NET: videos, tasks, and 9 questions to get ready for an interview
 4. https://training.epam.ua/en/blog/507?lang=ua - Embrace the Dot: advantages, applications and .NET development trends
 5. https://training.epam.ua/en/blog/580?lang=ua - Map to success: .NET roadmap for juniors
+
+## Books about C#/.NET:
+1. [“CLR via C# (Developer Reference)” by Jeffrey Richter.](https://www.amazon.com/CLR-via-4th-Developer-Reference/dp/0735667454)
+2. [“Pro C# 9 with .NET 5: Foundational Principles and Practices in Programming” by Andrew Troelsen, Phillip Japikse.](https://www.amazon.com/Pro-NET-Foundational-Principles-Programming/dp/1484269381)
+3. [.NET Microservices: Architecture for Containerized .NET Applications.](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/)
+4. [“C# in Depth: Fourth Edition” by Jon Skeet.](https://www.amazon.com/C-Depth-Jon-Skeet/dp/1617294535)
