@@ -41,3 +41,4 @@
 3. [.NET Microservices: Architecture for Containerized .NET Applications.](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/)
 4. [“C# in Depth: Fourth Edition” by Jon Skeet.](https://www.amazon.com/C-Depth-Jon-Skeet/dp/1617294535)
 5. [Martin Fowler: Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+6. [Architect Modern Web Applications with ASP.NET Core and Azure](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
