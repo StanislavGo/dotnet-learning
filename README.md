@@ -30,11 +30,14 @@
 10. [C# Heap(ing) Vs Stack(ing) In .NET](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-i/)
 
 ## YouTube channels about C# and .NET:
-1. [Kevin Griffin | .NET, Azure, and Software](https://www.youtube.com/@ConsultWithGriff/featured)
-2. [Nick Chapsas](https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg)
+1. [Dotnet](https://www.youtube.com/@dotnet/featured)
+2. [Microsoft](https://www.youtube.com/@MicrosoftDeveloper/featured)
+3. [Kevin Griffin | .NET, Azure, and Software](https://www.youtube.com/@ConsultWithGriff/featured)
+4. [Nick Chapsas](https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg)
 
-## Books about C#/.NET:
+## Books about C#/.NET, Microservices and Architecture:
 1. [“CLR via C# (Developer Reference)” by Jeffrey Richter.](https://www.amazon.com/CLR-via-4th-Developer-Reference/dp/0735667454)
 2. [“Pro C# 9 with .NET 5: Foundational Principles and Practices in Programming” by Andrew Troelsen, Phillip Japikse.](https://www.amazon.com/Pro-NET-Foundational-Principles-Programming/dp/1484269381)
 3. [.NET Microservices: Architecture for Containerized .NET Applications.](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/)
 4. [“C# in Depth: Fourth Edition” by Jon Skeet.](https://www.amazon.com/C-Depth-Jon-Skeet/dp/1617294535)
+5. [Martin Fowler: Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
