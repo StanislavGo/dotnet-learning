@@ -1,4 +1,4 @@
-## Hello, this repository was created to store different information about C#, .NET, ASP.NET and .NET Microservices. Happy learning!
+## This repository was created to store different information about C#, .NET, ASP.NET and .NET Microservices. Happy learning!
 
 ## C#/.NET courses and programs:
 1. https://training.epam.ua/en/training/3508 - .NET free course for begginers from EPAM. Topics you will learn: .NET & C#, GIT, Data processing, Design patters and application architecture, ASP.Net, HTML, CSS, JavaScript.
