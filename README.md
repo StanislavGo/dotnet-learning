@@ -42,6 +42,7 @@
 4. [“C# in Depth: Fourth Edition” by Jon Skeet.](https://www.amazon.com/C-Depth-Jon-Skeet/dp/1617294535)
 5. [Martin Fowler: Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 6. [Architect Modern Web Applications with ASP.NET Core and Azure](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
+7. [C# 11 and .NET 7 – Modern Cross-Platform Development Fundamentals](https://www.amazon.com/11-NET-Cross-Platform-Development-Fundamentals-ebook/dp/B0B7SKMDYQ/ref=sr_1_2?crid=2JSZXA0AYHDA2&keywords=c%23&qid=1681909182&s=digital-text&sprefix=c+%2Cdigital-text%2C170&sr=1-2)
 
 ## ASP.NET Core Developer roadmap:
 https://roadmap.sh/aspnet-core
