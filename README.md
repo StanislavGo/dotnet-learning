@@ -26,7 +26,7 @@
 6. [SOLID Design Principles in C# with Real-Time Examples.](https://dotnettutorials.net/course/solid-design-principles/#:~:text=SOLID%20principles%20represent%20five%20design%20principles%20that%20basically,Open-Closed%20Principle%20which%20is%20also%20known%20as%20OSP.)
 7. [C# Design Patterns.](https://www.dofactory.com/net/design-patterns)
 8. [What is Dependency Injection C#?](https://stackify.com/dependency-injection-c-sharp/)
-9. [sealed (C# Reference)](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/sealed)
+9. [Sealed (C# Reference)](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/sealed)
 10. [C# Heap(ing) Vs Stack(ing) In .NET](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-i/)
 
 ## YouTube channels about C# and .NET:
