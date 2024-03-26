@@ -5,8 +5,8 @@ https://roadmap.sh/aspnet-core
 
 ## Questions and answers block:
 
-### Question: How to use this repository and learn something new?
-### Answer: All you need to do is to go to "information" folder and choose the materials you need. For example, you need some courses about C# and .NET, then go to courses.md in the "information" folder and start learning.
+#### Question: How to use this repository and learn something new?
+#### Answer: All you need to do is to go to "information" folder and choose the materials you need. For example, you need some courses about C# and .NET, then go to courses.md in the "information" folder and start learning.
 
 ## Videos about C#/.NET:
 1. https://www.youtube.com/watch?v=pReR6Z9rK-o - 4 hours of learning C#.
