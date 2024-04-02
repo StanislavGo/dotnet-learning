@@ -11,3 +11,4 @@
 8. [What is Dependency Injection C#?](https://stackify.com/dependency-injection-c-sharp/)
 9. [Sealed (C# Reference)](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/sealed)
 10. [C# Heap(ing) Vs Stack(ing) In .NET](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-i/)
+11. [SQL-Server: Exploration of datetime2(7) precision (C#)](https://dev.to/karenpayneoregon/sql-server-exploration-of-datetime27-precision-c-2l54)
