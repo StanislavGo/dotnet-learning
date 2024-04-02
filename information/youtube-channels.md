@@ -5,3 +5,4 @@
 2. [Microsoft](https://www.youtube.com/@MicrosoftDeveloper/featured)
 3. [Kevin Griffin | .NET, Azure, and Software](https://www.youtube.com/@ConsultWithGriff/featured)
 4. [Nick Chapsas](https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg)
+5. [Gavin Lon](https://www.youtube.com/@GavinLon)
