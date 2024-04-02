@@ -12,3 +12,4 @@
 9. [C# Programming (Wikibooks)](https://en.wikibooks.org/wiki/C_Sharp_Programming)
 10. [Pro C# 7: With .NET and .NET Core](https://www.amazon.com/Pro-NET-Core-Andrew-Troelsen/dp/1484230175)
 11. [Pro ASP.NET Core 7, Tenth Edition](https://www.amazon.com/Pro-ASP-NET-Core-7-Tenth-dp-1633437825/dp/1633437825/ref=dp_ob_title_bk)
+12. [C# by Example (Tiny)](https://www.amazon.co.uk/Tiny-C-Projects-Denis-Panjuta/dp/1633439003)
