@@ -7,10 +7,3 @@ https://roadmap.sh/aspnet-core
 
 #### Question: How to use this repository and learn something new?
 #### Answer: All you need to do is to go to "information" folder and choose materials that you need. For example, if you need some courses about C# and .NET, then you should go to courses.md in the "information" folder and start learning.
-
-## C# Exercises:
-1. [C# Exercises](https://www.w3schools.com/cs/cs_exercises.php) — more than 50 C# exercises to help consolidate the theory and identify gaps in knowledge.
-2. [Codewars](https://www.codewars.com/dashboard) - C# exercises with different levels of difficulty (Not only C# exercises). 
-3. [350+ C# Practice Challenges](https://edabit.com/challenges/csharp) — even more C# exercises with 6 difficulty levels available.
-4. [LeetCode](https://leetcode.com/)
-5. [Exercism](https://exercism.org/)
