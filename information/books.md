@@ -13,3 +13,6 @@
 10. [Pro C# 7: With .NET and .NET Core](https://www.amazon.com/Pro-NET-Core-Andrew-Troelsen/dp/1484230175)
 11. [Pro ASP.NET Core 7, Tenth Edition](https://www.amazon.com/Pro-ASP-NET-Core-7-Tenth-dp-1633437825/dp/1633437825/ref=dp_ob_title_bk)
 12. [C# by Example (Tiny)](https://www.amazon.co.uk/Tiny-C-Projects-Denis-Panjuta/dp/1633439003)
+13. [Xamarin with Visual Studio: Launch your mobile development career by creating Android and iOS applications using .NET and C# (2022)](https://www.amazon.com/Xamarin-Visual-Studio-development-applications/dp/9355511876)
+14. [Developing 2D Games with Unity: Independent Game Programming with C# (2018)](https://www.amazon.com/Developing-Games-Unity-Independent-Programming/dp/1484237714)
+15. [C# Unit Testing: NUnit, Moq, and Beyond (2024)](https://www.amazon.com/Unit-Testing-dependency-injection-practices-ebook/dp/B0CW1JFY59)
