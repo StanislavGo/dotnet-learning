@@ -22,3 +22,6 @@
 19. [Advanced Topics in C#](https://www.youtube.com/playlist?list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ)
 20. [Advanced Programming Concepts in C#](https://www.youtube.com/playlist?list=PLOeFnOV9YBa43HKvIhBUMK6UhSjP2kizx)
 21. [Advanced C#](https://www.youtube.com/playlist?list=PL4LFuHwItvKaOi-bN1E2WUVyZbuRhVokL)
+22. [ADVANCED C# for Advanced Developers](https://www.youtube.com/playlist?list=PLSr9CPTtmP9js0n4XOmI4vfKeVvlS32PA)
+23. [C# Programming (Advanced/Intermediate)](https://www.youtube.com/playlist?list=PL_pbwdIyffslHaBdS3RUW26RKzSjkl8m4)
+24. [C# Programming (Advanced)](https://www.youtube.com/playlist?list=PLS9G7A6kaaHPdxiIQx9Zo1RgdN64cJfLS)
