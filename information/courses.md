@@ -25,3 +25,6 @@
 22. [ADVANCED C# for Advanced Developers](https://www.youtube.com/playlist?list=PLSr9CPTtmP9js0n4XOmI4vfKeVvlS32PA)
 23. [C# Programming (Advanced/Intermediate)](https://www.youtube.com/playlist?list=PL_pbwdIyffslHaBdS3RUW26RKzSjkl8m4)
 24. [C# Programming (Advanced)](https://www.youtube.com/playlist?list=PLS9G7A6kaaHPdxiIQx9Zo1RgdN64cJfLS)
+25. [Advanced C#](https://www.youtube.com/playlist?list=PLXCqSX1D2fd8OTsj8Gb0pjuGnheyJv9gZ)
+26. [Learn C# Programming – Full Course with Mini-Projects](https://www.youtube.com/watch?v=YrtFtdTTfv0)
+27. [C# Programming for Absolute Beginners | FREE 12 Hour Course](https://www.youtube.com/watch?v=ALXpVlPYqYE)
