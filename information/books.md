@@ -16,3 +16,6 @@
 13. [Xamarin with Visual Studio: Launch your mobile development career by creating Android and iOS applications using .NET and C# (2022)](https://www.amazon.com/Xamarin-Visual-Studio-development-applications/dp/9355511876)
 14. [Developing 2D Games with Unity: Independent Game Programming with C# (2018)](https://www.amazon.com/Developing-Games-Unity-Independent-Programming/dp/1484237714)
 15. [C# Unit Testing: NUnit, Moq, and Beyond (2024)](https://www.amazon.com/Unit-Testing-dependency-injection-practices-ebook/dp/B0CW1JFY59)
+16. [C# ADO.NET: Building Secure and Scalable Data Access (2023)](https://www.amazon.com/ADO-NET-Building-Scalable-Mastering-Management-ebook/dp/B0CW1KL132/ref=sr_1_1?dib=eyJ2IjoiMSJ9.rLNlmA2NAMP4d9fFW8zXSg.QME_f23RrWoUq1-zE3SjZnZqRvh8jeTHSCtJxlporHw&dib_tag=se&qid=1712780051&refinements=p_lbr_books_series_browse-bin%3AMastering+Database+Management+Series&s=books&sr=1-1)
+17. [Test Your Skills in C# Programming: Review and Analyze Important Features of C# (2022)](https://www.amazon.com/Test-Your-Skills-Programming-Important/dp/1484286545)
+18. [C# Cookbook: Modern Recipes for Professional Developers (2021)](https://www.amazon.com/Cookbook-Modern-Recipes-Professional-Developers/dp/1492093696)
