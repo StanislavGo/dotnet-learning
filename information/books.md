@@ -19,3 +19,5 @@
 16. [C# ADO.NET: Building Secure and Scalable Data Access (2023)](https://www.amazon.com/ADO-NET-Building-Scalable-Mastering-Management-ebook/dp/B0CW1KL132/ref=sr_1_1?dib=eyJ2IjoiMSJ9.rLNlmA2NAMP4d9fFW8zXSg.QME_f23RrWoUq1-zE3SjZnZqRvh8jeTHSCtJxlporHw&dib_tag=se&qid=1712780051&refinements=p_lbr_books_series_browse-bin%3AMastering+Database+Management+Series&s=books&sr=1-1)
 17. [Test Your Skills in C# Programming: Review and Analyze Important Features of C# (2022)](https://www.amazon.com/Test-Your-Skills-Programming-Important/dp/1484286545)
 18. [C# Cookbook: Modern Recipes for Professional Developers (2021)](https://www.amazon.com/Cookbook-Modern-Recipes-Professional-Developers/dp/1492093696)
+19. [C# Mastery: A Comprehensive Guide to Programming in C#](https://www.amazon.com/Mastery-Comprehensive-Guide-Programming/dp/B0CLYB8VZN)
+20. [Web API Development with ASP.NET Core 8: Learn techniques, patterns, and tools for building high-performance, robust, and scalable web APIs](https://www.amazon.com/Web-Development-ASP-NET-Core-high-performance/dp/180461095X)
