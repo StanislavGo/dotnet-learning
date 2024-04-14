@@ -28,3 +28,7 @@
 25. [Advanced C#](https://www.youtube.com/playlist?list=PLXCqSX1D2fd8OTsj8Gb0pjuGnheyJv9gZ)
 26. [Learn C# Programming – Full Course with Mini-Projects](https://www.youtube.com/watch?v=YrtFtdTTfv0)
 27. [C# Programming for Absolute Beginners | FREE 12 Hour Course](https://www.youtube.com/watch?v=ALXpVlPYqYE)
+28. [C# Full Course : C# Tutorial for Beginners](https://www.youtube.com/watch?v=M5ugY7fWydE)
+29. [C# Programming (Expert/Master) Object Oriented (OOP) Full Course](https://www.youtube.com/playlist?list=PL_pbwdIyffsnH3XJb66FDIHh1yHwWC26I)
+30. [C# Fundamentals for Beginners](https://www.youtube.com/watch?v=0QUgvfuKvWU)
+31. [C# PROGRAMMING LANGUAGE (CONSOLE APPLICATIONS)](https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR)
