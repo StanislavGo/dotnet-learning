@@ -21,3 +21,5 @@
 18. [C# Cookbook: Modern Recipes for Professional Developers (2021)](https://www.amazon.com/Cookbook-Modern-Recipes-Professional-Developers/dp/1492093696)
 19. [C# Mastery: A Comprehensive Guide to Programming in C#](https://www.amazon.com/Mastery-Comprehensive-Guide-Programming/dp/B0CLYB8VZN)
 20. [Web API Development with ASP.NET Core 8: Learn techniques, patterns, and tools for building high-performance, robust, and scalable web APIs](https://www.amazon.com/Web-Development-ASP-NET-Core-high-performance/dp/180461095X)
+21. [Target C#: Simple Hands-On Programming with Visual Studio (2022)](https://www.amazon.com/-/es/Gerard-Byrne/dp/1484286189)
+22. [.NET Developer's Guide to Augmented Reality in iOS: Building Immersive Apps Using Xamarin, ARKit, and C# (2021)](https://www.amazon.co.uk/NET-Developers-Guide-Augmented-Reality/dp/1484283279)
