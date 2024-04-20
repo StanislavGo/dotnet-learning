@@ -32,3 +32,5 @@
 29. [C# Programming (Expert/Master) Object Oriented (OOP) Full Course](https://www.youtube.com/playlist?list=PL_pbwdIyffsnH3XJb66FDIHh1yHwWC26I)
 30. [C# Fundamentals for Beginners](https://www.youtube.com/watch?v=0QUgvfuKvWU)
 31. [C# PROGRAMMING LANGUAGE (CONSOLE APPLICATIONS)](https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR)
+32. [.NET fundamentals](https://www.youtube.com/playlist?list=PLzYkqgWkHPKBmDZNGYRaer4_FUyAsG-cw)
+33. [ASP .NET Core MVC Web Application (.NET 5)](https://www.youtube.com/playlist?list=PL4LFuHwItvKZ6Mz5W5wzD9uo3w6tNChhX)
