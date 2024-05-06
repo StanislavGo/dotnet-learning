@@ -23,3 +23,6 @@
 20. [Web API Development with ASP.NET Core 8: Learn techniques, patterns, and tools for building high-performance, robust, and scalable web APIs](https://www.amazon.com/Web-Development-ASP-NET-Core-high-performance/dp/180461095X)
 21. [Target C#: Simple Hands-On Programming with Visual Studio (2022)](https://www.amazon.com/-/es/Gerard-Byrne/dp/1484286189)
 22. [.NET Developer's Guide to Augmented Reality in iOS: Building Immersive Apps Using Xamarin, ARKit, and C# (2021)](https://www.amazon.co.uk/NET-Developers-Guide-Augmented-Reality/dp/1484283279)
+23. [Pro ASP.NET Core Identity: Under the Hood with Authentication and Authorization in ASP.NET Core 5 and 6 Applications (2021)](https://www.amazon.com/ASP-NET-Core-Identity-Authentication-Authorization/dp/1484268571)
+24. [Mastering Blazor WebAssembly: A step-by-step guide to developing advanced single-page applications with Blazor WebAssembly (2023)](https://www.amazon.com/Mastering-Blazor-WebAssembly-developing-Application/dp/1803235101)
+25. [Advanced ASP.NET Core 3 Security: Understanding Hacks, Attacks, and Vulnerabilities to Secure Your Website (2020)](https://www.amazon.com/Advanced-ASP-NET-Core-Security-Vulnerabilities/dp/1484260163)
