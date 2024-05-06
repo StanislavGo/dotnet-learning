@@ -26,3 +26,8 @@
 23. [Pro ASP.NET Core Identity: Under the Hood with Authentication and Authorization in ASP.NET Core 5 and 6 Applications (2021)](https://www.amazon.com/ASP-NET-Core-Identity-Authentication-Authorization/dp/1484268571)
 24. [Mastering Blazor WebAssembly: A step-by-step guide to developing advanced single-page applications with Blazor WebAssembly (2023)](https://www.amazon.com/Mastering-Blazor-WebAssembly-developing-Application/dp/1803235101)
 25. [Advanced ASP.NET Core 3 Security: Understanding Hacks, Attacks, and Vulnerabilities to Secure Your Website (2020)](https://www.amazon.com/Advanced-ASP-NET-Core-Security-Vulnerabilities/dp/1484260163)
+26. [ASP.NET Core 8 and Angular: Full-stack web development with ASP.NET Core 8 and Angular (2024)](https://www.amazon.com/ASP-NET-Core-Angular-Full-stack-development/dp/1805129937)
+27. [Game Development with Unity for .NET Developers: The ultimate guide to creating games with Unity and Microsoft Game Stack (2022)Game Development with Unity for .NET Developers: The ultimate guide to creating games with Unity and Microsoft Game Stack (2022)](https://www.amazon.com/Game-Development-Unity-NET-Developers/dp/1801078076)
+28. [C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals: Start building websites and services with ASP.NET Core 8, Blazor, and EF Core 8 (2023)](https://www.amazon.com/12-NET-Cross-Platform-Development-Fundamentals/dp/1837635870)
+29. [Exploring Blazor: Creating Server-side and Client-side Applications in .NET 7 (2022)](https://www.amazon.com/Exploring-Blazor-Server-side-Client-side-Applications/dp/1484287673)
+30. [ASP.NET Core Security (2022)](https://www.amazon.com/ASP-NET-Core-Security-Christian-Wenz/dp/1633439984)
