@@ -7,3 +7,4 @@
 4. [Nick Chapsas](https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg)
 5. [Gavin Lon](https://www.youtube.com/@GavinLon)
 6. [Ted's Tech](https://www.youtube.com/@TedsTech)
+7. [IAmTimCorey](https://www.youtube.com/@IAmTimCorey)
