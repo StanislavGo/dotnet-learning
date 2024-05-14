@@ -6,3 +6,4 @@
 3. [Kevin Griffin | .NET, Azure, and Software](https://www.youtube.com/@ConsultWithGriff/featured)
 4. [Nick Chapsas](https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg)
 5. [Gavin Lon](https://www.youtube.com/@GavinLon)
+6. [Ted's Tech](https://www.youtube.com/@TedsTech)
