@@ -34,3 +34,4 @@
 31. [C# PROGRAMMING LANGUAGE (CONSOLE APPLICATIONS)](https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR)
 32. [.NET fundamentals](https://www.youtube.com/playlist?list=PLzYkqgWkHPKBmDZNGYRaer4_FUyAsG-cw)
 33. [ASP .NET Core MVC Web Application (.NET 5)](https://www.youtube.com/playlist?list=PL4LFuHwItvKZ6Mz5W5wzD9uo3w6tNChhX)
+34. [Advanced C# – LINQ Tutorial](https://youtube.com/watch?v=5l2qA3Pc83M)
