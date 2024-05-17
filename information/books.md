@@ -31,3 +31,7 @@
 28. [C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals: Start building websites and services with ASP.NET Core 8, Blazor, and EF Core 8 (2023)](https://www.amazon.com/12-NET-Cross-Platform-Development-Fundamentals/dp/1837635870)
 29. [Exploring Blazor: Creating Server-side and Client-side Applications in .NET 7 (2022)](https://www.amazon.com/Exploring-Blazor-Server-side-Client-side-Applications/dp/1484287673)
 30. [ASP.NET Core Security (2022)](https://www.amazon.com/ASP-NET-Core-Security-Christian-Wenz/dp/1633439984)
+31. [Real-World Implementation of C# Design Patterns: Overcome daily programming challenges using elements of reusable object-oriented software (2022)](https://www.amazon.com/Real-World-Implementation-Design-Patterns-object-oriented/dp/1803242736)
+32. [Web Development with Blazor - Third Edition: A practical guide to start building interactive UIs with C# 12 and .NET 8](https://www.amazon.com/Web-Development-Blazor-practical-interactive/dp/1835465919)
+33. [Kubernetes for Developers (2024)](https://www.amazon.com/Kubernetes-Developers-William-Denniss/dp/1617297178)
+34. [Hands-on Azure Functions with C#: Build Function as a Service (FaaS) Solutions (2021)](https://www.amazon.com/Hands-Azure-Functions-Function-Solutions/dp/1484271211)
