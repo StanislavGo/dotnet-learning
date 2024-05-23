@@ -35,3 +35,4 @@
 32. [.NET fundamentals](https://www.youtube.com/playlist?list=PLzYkqgWkHPKBmDZNGYRaer4_FUyAsG-cw)
 33. [ASP .NET Core MVC Web Application (.NET 5)](https://www.youtube.com/playlist?list=PL4LFuHwItvKZ6Mz5W5wzD9uo3w6tNChhX)
 34. [Advanced C# – LINQ Tutorial](https://youtube.com/watch?v=5l2qA3Pc83M)
+35. [C# for Beginners | Full 2-hour course](https://www.youtube.com/watch?v=Z5JS36NlJiU)
