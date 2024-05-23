@@ -35,3 +35,6 @@
 32. [Web Development with Blazor - Third Edition: A practical guide to start building interactive UIs with C# 12 and .NET 8](https://www.amazon.com/Web-Development-Blazor-practical-interactive/dp/1835465919)
 33. [Kubernetes for Developers (2024)](https://www.amazon.com/Kubernetes-Developers-William-Denniss/dp/1617297178)
 34. [Hands-on Azure Functions with C#: Build Function as a Service (FaaS) Solutions (2021)](https://www.amazon.com/Hands-Azure-Functions-Function-Solutions/dp/1484271211)
+35. [Microservices Design Patterns in .NET: Making sense of microservices design and architecture using .NET Core (2023)](https://www.amazon.com/Microservices-Design-Patterns-NET-microservices/dp/1804610305)
+36. [Coding Clean, Reliable, and Safe REST APIs with ASP.NET Core 8: Develop Robust Minimal APIs with .NET 8 (2023)](https://www.amazon.com/Coding-Clean-Reliable-Safe-ASP-NET/dp/1484299787)
+37. [Unit Testing Principles, Practices, and Patterns: Effective testing styles, patterns, and reliable automation for unit testing, mocking, and integration testing with examples in C#](https://www.amazon.com/Unit-Testing-Principles-Practices-Patterns/dp/1617296279)
