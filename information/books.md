@@ -38,3 +38,5 @@
 35. [Microservices Design Patterns in .NET: Making sense of microservices design and architecture using .NET Core (2023)](https://www.amazon.com/Microservices-Design-Patterns-NET-microservices/dp/1804610305)
 36. [Coding Clean, Reliable, and Safe REST APIs with ASP.NET Core 8: Develop Robust Minimal APIs with .NET 8 (2023)](https://www.amazon.com/Coding-Clean-Reliable-Safe-ASP-NET/dp/1484299787)
 37. [Unit Testing Principles, Practices, and Patterns: Effective testing styles, patterns, and reliable automation for unit testing, mocking, and integration testing with examples in C#](https://www.amazon.com/Unit-Testing-Principles-Practices-Patterns/dp/1617296279)
+38. [Starting out with Visual C# (2019)](https://www.amazon.com/Starting-out-Visual-C-5th/dp/0135183510)
+39. [The C# Player's Guide (2022)](https://www.amazon.com/C-Players-Guide-5th/dp/0985580151)
